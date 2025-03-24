@@ -17,3 +17,7 @@ Precipitation (mm)
 Temperature (°C)
 Relative Humidity (%)
 Wind Speed (km/h)
+
+
+# Data Analysis
+It also contains analysis of Meteonet radar dataset: visualization of mapping from dbZ to pixel intensities
